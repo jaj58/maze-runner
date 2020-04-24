@@ -5,7 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>allcode_api.h</itemPath>
-      <itemPath>mario_theme_tune.h</itemPath>
+      <itemPath>star_wars.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
